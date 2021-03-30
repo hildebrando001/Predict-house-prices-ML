@@ -1,7 +1,6 @@
 # Machine Learning
-# Aprendizado de Máquina
 
-**Upload, process data and prepare an interactive Machine Learning Data App using streamlit.**
+**Load, treat data and prepare an interactive Machine Learning Data App using streamlit.**
 
 The goal of this project is to create a Machine Learning Data App to predict the price of houses in Boston City USA. This data set is available in the sklearn library.
 
@@ -9,6 +8,7 @@ Three Machine Learning algorithms were used to measure its results: (Linear Regr
 
 "Random Forest" presented the best results and it was chosen to the Data App project. 
 
+# Aprendizado de Máquina
 
 **Carregar, tratar dados e preparar um Data App interativo de Machine Learning utilizando streamlit.**
 
